@@ -1,0 +1,33 @@
+1. Cơ bản:
+    Tổng các phần tử trong mảng.
+    Đảo ngược mảng.
+    Tìm phần tử lớn nhất trong mảng.
+    Tìm phần tử nhỏ nhất trong mảng.
+    Đếm số lần xuất hiện của một phần tử trong mảng.
+    Kiểm tra mảng có chứa giá trị cụ thể hay không.
+    Xóa phần tử trùng lặp trong mảng.
+    Ghép hai mảng mà không có phần tử trùng lặp.
+    Kiểm tra một mảng có phải là mảng đối xứng (Palindrome Array) hay không.
+2.Trung cấp:
+    Sắp xếp mảng theo thứ tự tăng dần.
+    Xoay mảng sang trái hoặc phải một số lần nhất định.
+    Kiểm tra hai mảng có phần tử chung hay không.
+    Tìm phần tử xuất hiện nhiều lần nhất trong mảng.
+    Tính tổng các giá trị của một thuộc tính trong mảng object.
+    Sắp xếp mảng object theo một thuộc tính bất kỳ.
+    Chuyển đổi một mảng thành một object với key là giá trị của mảng.
+    Tìm tất cả các cặp số trong mảng có tổng bằng một giá trị cho trước.
+3.Nâng cao:
+    Nhóm các object theo thuộc tính trong mảng object.
+    Xử lý nhiều mảng lồng nhau để tìm tổng của các phần tử.
+    Sắp xếp object theo nhiều thuộc tính.
+    Gộp nhiều object thành một object, loại bỏ các key trùng lặp.
+    Tìm phần tử có giá trị lớn nhất và nhỏ nhất trong mảng object.
+    Chuyển đổi mảng 2D thành mảng 1D.
+    Chuyển đổi mảng object thành một mảng các giá trị của một thuộc tính cụ thể.
+    Viết hàm loại bỏ tất cả các phần tử 'falsy' khỏi mảng (0, null, undefined, false, NaN, '').
+    Viết hàm lấy phần tử lớn thứ 2 trong mảng.
+    Chuyển đổi một mảng số thành một chuỗi dạng số điện thoại (ví dụ: [1,2,3,4,5,6,7,8,9,0] thành "(123) 456-7890").
+    Tính tổng các giá trị của tất cả các key trong object lồng nhau.
+    Sử dụng mảng để tạo một lịch biểu dạng bảng có các ô trống cho ngày.
+    Kiểm tra xem một object có chứa tất cả các key của object khác hay không.
